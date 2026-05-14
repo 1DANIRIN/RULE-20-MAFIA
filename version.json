@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apkUrl": "https://github.com/1DANIRIN/RULE-20-MAFIA/releases/download/v1.0.1/RULE.20.MAFIA.apk",
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apkUrl": "https://github.com/1DANIRIN/RULE-20-MAFIA/releases/download/v1.0.2/RULE20MAFIA.apk",
   "changelog": "Добавлена кнопка проверки обновлений через GitHub и автоматическая проверка обновления при запуске приложения."
 }
