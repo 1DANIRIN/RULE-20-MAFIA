@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.3",
-  "apkUrl": "https://github.com/1DANIRIN/RULE-20-MAFIA/releases/download/v1.0.1/RULE.20.MAFIA.apk",
-  "changelog": "Добавлена кнопка проверки обновлений через GitHub и автоматическая проверка обновления при запуске приложения."
+  "versionCode": 4,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/1DANIRIN/RULE-20-MAFIA/releases/download/v1.1.0/RULE20MAFIA-v1.1.0.apk",
+  "changelog": "Добавлена новая настройка для роли «Любовница», заменены все иконки ролей и добавлены иконки колод."
 }
