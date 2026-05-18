@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/1DANIRIN/RULE-20-MAFIA/releases/download/v1.1.0/RULE20MAFIA-v1.1.0.apk",
-  "changelog": "Добавлена новая настройка для роли «Любовница», заменены все иконки ролей и добавлены иконки колод."
+  "versionCode": 5,
+  "versionName": "1.5.0",
+  "apkUrl": "https://github.com/1DANIRIN/RULE-20-MAFIA/releases/download/v1.5.0/RULE20MAFIA-V.1.5.0.apk",
+  "changelog": "Добавлено сохранение прогресса на случай вылета или закрытия приложения. Добавлены колоды для ведущего: Werewolf, Blood on the Clocktower: Trouble Brewing, Blood on the Clocktower: Everyone Can Play, Подрывник, Тюрьма и Квартал красных фонарей. Ведение игры почти полностью автоматизировано."
 }
